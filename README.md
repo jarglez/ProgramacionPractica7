@@ -22,6 +22,12 @@ df = sns.load_dataset('iris')
 
 ## Instrucciones
 
+- Formato y personalización de los gráficos:
+    
+    - Asegúrate de personalizar cada gráfico con títulos, etiquetas en los ejes, y leyendas cuando sea necesario.
+    
+    - Experimenta con diferentes colores, tamaños de figura y estilos de línea.
+
 - Carga y exploración del dataset:
     - Cargar el dataset Iris utilizando seaborn o cualquier otro dataset de su elección.
     - Verificar las primeras filas del dataset con el método ```.head()```.
@@ -60,8 +66,3 @@ df = sns.load_dataset('iris')
         
         - Instrucciones: Crea un gráfico de líneas utilizando la variable petal_length (en el eje Y) con el índice de las observaciones (en el eje X). Puedes hacer esto para ver cómo varía la longitud del pétalo a lo largo del dataset.
 
-- Formato y personalización de los gráficos:
-    
-    - Asegúrate de personalizar cada gráfico con títulos, etiquetas en los ejes, y leyendas cuando sea necesario.
-    
-    - Experimenta con diferentes colores, tamaños de figura y estilos de línea.
